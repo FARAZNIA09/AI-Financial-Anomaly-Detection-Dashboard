@@ -99,44 +99,41 @@ This system can help financial institutions:
 
 AI-Financial-Anomaly-Detection/
 
-│
 ├── data/
 
-│   └── financial_transactions.csv
+└── financial_transactions.csv
 
-│
 ├── notebooks/
 
-│   └── model_training.ipynb
+└── model_training.ipynb
 
-│
+
 ├── src/
 
-│   ├── data_preprocessing.py
+├── data_preprocessing.py
 
-│   ├── model_training.py
-│   
-    └── evaluation.py
-│
+├── model_training.py
+
+└── evaluation.py
+
 ├── dashboard/
 
-│   ├── PowerBI_Dashboard.pbix
+├── PowerBI_Dashboard.pbix
 
-│   └── Dashboard_Screenshot.png
+└── Dashboard_Screenshot.png
 
-│
+
 ├── models/
 
-│   └── anomaly_model.pkl
+└── anomaly_model.pkl
 
-│
+
 ├── reports/
 
-│   ├── Confusion_Matrix.png
+├── Confusion_Matrix.png
 
-│   └── ROC_Curve.png
+└── ROC_Curve.png
 
-│
 └── README.md
 
 
@@ -172,6 +169,7 @@ AI-Financial-Anomaly-Detection/
 Faraz Niyazi  
 Data Analyst | Machine Learning Enthusiast  
 Excel | SQL | Power BI | Python
+
 
 
 
