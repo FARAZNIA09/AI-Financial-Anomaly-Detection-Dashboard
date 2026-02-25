@@ -128,9 +128,11 @@ AI-Financial-Anomaly-Detection/
 
 ## 📷 Model Evaluation
 
-(Add Confusion Matrix Image Here)
-
-(Add ROC Curve Image Here)
+![](JupyterNotebook-Screenshot-1.png)
+![](JupyterNotebook-Screenshot-2.png)
+![](JupyterNotebook-Screenshot-3.png)
+![](JupyterNotebook-Screenshot-4.png)
+![](JupyterNotebook-Screenshot-5.png)
 
 ---
 
@@ -154,3 +156,4 @@ AI-Financial-Anomaly-Detection/
 Faraz Niyazi  
 Data Analyst | Machine Learning Enthusiast  
 Excel | SQL | Power BI | Python
+
