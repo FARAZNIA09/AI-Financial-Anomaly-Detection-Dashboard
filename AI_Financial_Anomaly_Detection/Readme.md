@@ -128,17 +128,17 @@ AI-Financial-Anomaly-Detection/
 
 ## 📷 Model Evaluation
 
-![](JupyterNotebook-Screenshot-1.png)
-![](JupyterNotebook-Screenshot-2.png)
-![](JupyterNotebook-Screenshot-3.png)
-![](JupyterNotebook-Screenshot-4.png)
-![](JupyterNotebook-Screenshot-5.png)
+![](Screenshot/JupyterNotebook-Screenshot-1.png)
+![](Screenshot/JupyterNotebook-Screenshot-2.png)
+![](Screenshot/JupyterNotebook-Screenshot-3.png)
+![](Screenshot/JupyterNotebook-Screenshot-4.png)
+![](Screenshot/JupyterNotebook-Screenshot-5.png)
 
 ---
 
 ## 📷 Dashboard Preview
 
- ![Dashboard](Dashboard.png)
+ ![Dashboard](Screenshot/Dashboard.png)
 
 ---
 
@@ -156,4 +156,5 @@ AI-Financial-Anomaly-Detection/
 Faraz Niyazi  
 Data Analyst | Machine Learning Enthusiast  
 Excel | SQL | Power BI | Python
+
 
